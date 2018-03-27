@@ -1,10 +1,10 @@
 # docker 练习
 
 ### 练习描述
-- 按照教程在 docker 中安装 jenkins 镜像
-- 按照教程在 Jenkins 上搭建 Pipeline
-- 按照教程搭建 Jenkins Pipeline 进行持续集成
-- 本地编写 Jenkinsfile，对题目进行构建和测试
+- 在 docker 中安装 jenkins 镜像
+- 在 Jenkins 上搭建 Pipeline
+- 对 Jenkins Pipeline 进行持续集成
+- 本地编写 Jenkinsfile，进行构建和测试
 
 ### 学习资料
 - [docker中安装jenkins镜像](https://www.jianshu.com/p/164c7258294c)
@@ -19,14 +19,10 @@
 - jenkins
 
 ### 如何开始
-- 在命令行中使用以下命令在用户本地任意目录下clone此题目库
-```
-git clone repo_of_this_template
-```
-- 按照练习描述完成对jenkins的配置
+- 在用户本地任意目录下clone此题目库
+- 按照需求完成练习（README.md中的练习描述）
 - 将`jenkins`的构建信息截图，命名为result.png
 - eg：
 
 ### 输出规范
-- 完成练习描述中的所有需求
 - 项目根目录下必须包含运行截图result.png
