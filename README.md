@@ -13,10 +13,10 @@
 - [Jenkinsfile教程](https://www.w3cschool.cn/jenkins/jenkins-qc8a28op.html)
 
 ### 环境描述
-java8
-Intellij-IDEA
-docker
-jenkins
+- java8
+- Intellij-IDEA
+- docker
+- jenkins
 
 ### 如何开始
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库
