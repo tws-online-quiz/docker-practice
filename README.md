@@ -22,7 +22,7 @@
 - 在用户本地任意目录下clone此题目库
 - 按照需求完成练习（README.md中的练习描述）
 - 将`jenkins`的构建信息截图，命名为result.png
-- eg：
+- eg：[](https://raw.githubusercontent.com/tws-online-quiz/docker-practice/master/example.png)
 
 ### 输出规范
 - 项目根目录下必须包含运行截图result.png
