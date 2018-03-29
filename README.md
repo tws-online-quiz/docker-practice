@@ -2,13 +2,12 @@
 
 ### 练习描述
 
-1、[在 Docker 中安装 Jenkins 镜像](https://www.jianshu.com/p/164c7258294c)
+按以步骤打造基于Docker的Jenkins Pipeline：
 
-2、[在 Jenkins 上搭建 Pipeline](https://www.xncoding.com/2017/03/22/fullstack/jenkins02.html)
-
-3、[在 github 配置 webhook 对 Jenkins 进行持续集成](https://www.jianshu.com/p/5879816dea49)
-
-4、[本地编写 Jenkinsfile，进行构建和测试](https://www.w3cschool.cn/jenkins/jenkins-qc8a28op.html)
+1. 在 Docker 中安装 Jenkins 镜像（[教程](https://www.jianshu.com/p/164c7258294c)）
+1. 在 Jenkins 上搭建 Pipeline（[教程](https://www.xncoding.com/2017/03/22/fullstack/jenkins02.html)）
+1. 在 github 配置 webhook 对 Jenkins 进行持续集成（[教程](https://www.jianshu.com/p/5879816dea49)）
+1. 本地编写 Jenkinsfile，进行构建和测试（[教程](https://www.w3cschool.cn/jenkins/jenkins-qc8a28op.html)）
 
 
 ### 环境描述
