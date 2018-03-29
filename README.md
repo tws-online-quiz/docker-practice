@@ -1,21 +1,26 @@
 # 基于Docker打造Jenkins Pipeline
 
 ### 练习描述
-- 在 docker 中安装 jenkins 镜像
-- 在 Jenkins 上搭建 Pipeline
-- 对 Jenkins Pipeline 进行持续集成
-- 本地编写 Jenkinsfile，进行构建和测试
+
+1、[在 Docker 中安装 Jenkins 镜像](https://www.jianshu.com/p/164c7258294c)
+
+2、[在 Jenkins 上搭建 Pipeline]((https://www.xncoding.com/2017/03/22/fullstack/jenkins02.html))
+
+3、[在 github 配置 webhook 对 Jenkins 进行持续集成](https://www.jianshu.com/p/5879816dea49)
+
+4、[本地编写 Jenkinsfile，进行构建和测试](https://www.w3cschool.cn/jenkins/jenkins-qc8a28op.html)
+
 
 ### 环境描述
 - java8
 - Intellij-IDEA
-- docker
-- jenkins
+- Docker
+- Jenkins
 
 ### 如何开始
 - 在用户本地任意目录下clone此题目库
 - 按照需求完成练习（README.md中的练习描述）
-- 将`jenkins`的构建信息截图，命名为result.png
+- 将`Jenkins`的构建信息截图，命名为result.png
 - 例如：
 ![](https://raw.githubusercontent.com/tws-online-quiz/docker-practice/master/example.png)
 
