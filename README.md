@@ -4,7 +4,7 @@
 
 1、[在 Docker 中安装 Jenkins 镜像](https://www.jianshu.com/p/164c7258294c)
 
-2、[在 Jenkins 上搭建 Pipeline]((https://www.xncoding.com/2017/03/22/fullstack/jenkins02.html))
+2、[在 Jenkins 上搭建 Pipeline](https://www.xncoding.com/2017/03/22/fullstack/jenkins02.html)
 
 3、[在 github 配置 webhook 对 Jenkins 进行持续集成](https://www.jianshu.com/p/5879816dea49)
 
