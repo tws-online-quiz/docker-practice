@@ -2,7 +2,7 @@
 
 ### 练习描述
 
-按以步骤打造基于Docker的Jenkins Pipeline：
+按以下步骤打造基于Docker的Jenkins Pipeline：
 
 1. 在 Docker 中安装 Jenkins 镜像（[教程](https://www.jianshu.com/p/164c7258294c)）
 1. 在 Jenkins 上搭建 Pipeline（[教程](https://www.xncoding.com/2017/03/22/fullstack/jenkins02.html)）
