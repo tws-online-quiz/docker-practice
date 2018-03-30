@@ -24,4 +24,5 @@
 ![](https://raw.githubusercontent.com/tws-online-quiz/docker-practice/master/example.png)
 
 ### 输出规范
-- 项目根目录下必须包含运行截图result.png
+- 项目根目录下必须包含运行截图 result.png
+- 小Buddy检查 build 信息是否和代码库 Jenkins file 匹配
